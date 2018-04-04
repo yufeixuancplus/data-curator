@@ -6008,10 +6008,11 @@ karma-coverage@^1.1.1:
     minimatch "^3.0.0"
     source-map "^0.5.1"
 
-karma-electron@^5.3.0:
-  version "5.3.0"
-  resolved "https://registry.yarnpkg.com/karma-electron/-/karma-electron-5.3.0.tgz#ce5240014ca454383a30462c17874948ae1bd0fd"
+karma-electron@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/karma-electron/-/karma-electron-6.0.0.tgz#c824dda46f49f7fc744b6b9b60e6413979947362"
   dependencies:
+    combine-source-map "~0.8.0"
     commander "~2.9.0"
     convert-source-map "~1.2.0"
     js-string-escape "~1.0.0"
