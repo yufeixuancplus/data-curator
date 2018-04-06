@@ -9719,9 +9719,9 @@ table@4.0.2:
     slice-ansi "1.0.0"
     string-width "^2.1.1"
 
-tableschema@^1.2.1, tableschema@^1.7.0:
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/tableschema/-/tableschema-1.9.0.tgz#afc67dd3893028bc3445feb66e52f4f90b6e473c"
+tableschema@^1.2.1, tableschema@^1.9.1:
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/tableschema/-/tableschema-1.9.1.tgz#4814e1b6ca7b81b94dc8e5d7ea197e3d84c212f3"
   dependencies:
     axios "^0.17.1"
     csv "^1.1.1"
